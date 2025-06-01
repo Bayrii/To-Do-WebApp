@@ -23,6 +23,7 @@ A simple and clean **Streamlit-based To-Do app** that helps you stay organized, 
 
 ![To-Do App Screenshot2](images/screenshot2.png)
 *Editing todo*
+
 ---
 
 ## 🧰 Tech Stack
